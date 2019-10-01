@@ -3,7 +3,15 @@
 [Oo]bj/
 [Bb]uild/
 [Bb]uilds/
+[Ll]ogs/
+[Pp]ackages/
 Assets/AssetStoreTools*
+Assets/Gizmos.meta
+Assets/Gizmos/
+Assets/PlayMaker.meta
+Assets/PlayMaker/
+Assets/Plugins.meta
+Assets/Plugins/
 
 # Visual Studio cache directory
 .vs/
